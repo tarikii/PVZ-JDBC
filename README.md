@@ -8,7 +8,7 @@ En esta práctica de JDBC, queremos que mediante un archivo (o varios) CSV, poda
 
 # Requisitos previos
 - Java 8 o posterior
-- Driver JDBC de PostgreSQL
+- Driver JDBC de PostgreSQL, lo podemos descargar de aquí: https://jdbc.postgresql.org/download/
 - Base de datos PostgreSQL en ejecución y funcional
 
 # Configuración
