@@ -2,6 +2,9 @@
 
 Este proyecto utiliza JDBC para conectarse a una base de datos PostgreSQL y realizar operaciones CRUD (crear, leer, actualizar y eliminar).
 
+# Objetivos del proyecto
+
+En esta práctica de JDBC, queremos que mediante un archivo (o varios) CSV, podamos rellenar tablas de la BBDD de nuestro PostgreSQL.
 
 # Requisitos previos
 - Java 8 o posterior
