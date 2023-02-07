@@ -1,11 +1,6 @@
 package org.example;
 
-import org.example.ConnectionFactory;
-
-import java.io.IOException;
 import java.sql.Connection;
-import java.sql.SQLException;
-import java.text.ParseException;
 
 /**
  * Clase principal de nuestro proyecto, se encarga de iniciar la conexion a nuestra base de datos y muestra el
@@ -14,7 +9,7 @@ import java.text.ParseException;
  * @author Tarik Aabouch - tarikii in GitHub
  * @version 8.0
  */
-public class Main {
+public class ACBMain {
     public static void main(String[] args){
         PVZMenu pvzMenu = new PVZMenu();
 
